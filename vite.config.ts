@@ -1,3 +1,4 @@
+import content from '@vercel/speed-insights'
 import content from '@originjs/vite-plugin-content'
 import legacy from '@vitejs/plugin-legacy'
 import vue from '@vitejs/plugin-vue'
